@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "ACTFIBERNET";
-const char* password = "9148596891atko1234";
+const char* ssid = "WIFI_NAME";
+const char* password = "PASSWORD";
  
 int ledPin = 2;
 WiFiServer server(80);
