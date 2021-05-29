@@ -4,6 +4,10 @@
 
 This is a code for creating simple server using `ESP2866` wifi and control its inbuilt led light from web browser.
 
+# How to run?
+
+Just copy the code and paste in `Arudiono IDE` and then click `upload` and Done!!
+
 # DEMO
 
 <img src="screenshot/demo.gif" />
